@@ -16,7 +16,7 @@ Q: Detector matrix used in the hidden mode modeling.
 
 Prob: Transition probability matrix for the Markov chain.
 
-init_distrib: Initial mode distribution (e.g., [1 0 0 0] indicates the system starts in mode 1).
+init_distrib: Initial mode distribution (uniformly distributed).
 
 
 
